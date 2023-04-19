@@ -112,6 +112,15 @@
                 
             }
 
+            .more{
+                margin: 0;
+                border-style:  solid;
+                border-color: black;
+                border-radius: 18px;
+                border-width: thin;
+
+            }
+
 
 /*-----------------------CenterBox Alanı----------------------------------------*/
 .centerbox{
